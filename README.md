@@ -12,6 +12,6 @@ Or follow this steps
 
 Step 1. Move to the desired folder.
 
-Step 2. `touch app.py config.py requirements.txt static/ templates/`
+Step 2. `touch app.py config.py requirements.txtp` and `mkdir static/ templates/`
 
 References: http://exploreflask.com/en/latest/organizing.html
